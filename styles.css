@@ -1,4 +1,9 @@
-#profile {
-  background-color: biege;
+#trip-deetz {
+  background-color: grey;
   display: none;
+}
+
+.layout-container section {
+  display: inline-block;
+  margin: 2%;
 }
